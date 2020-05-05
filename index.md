@@ -73,10 +73,6 @@ All of our design documentation and download files are available at ENIM. Pull r
 <img src="/Disinfection-Tunnel/assets/Media/4.jpg" class="center">
 
 
-
-
-
-
 Issues / Feature Requests: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an Issue to one of our GitHub repositories! Thank you!
 
 
