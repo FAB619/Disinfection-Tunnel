@@ -8,85 +8,67 @@
 layout: page
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E96OlSYppQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr />
-
-  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/brochure.JPG" class="center">
+  <img src="/Disinfection-Tunnel/assets/Media/1.JPG" class="center">
 
 # What?
 <hr />
-Enim body shield is a new design for a **simple, foldable body shield** for infection control developed by the professors and the students of engineering school of Monastir **in response to the Covid-19 pandemic.**
+According to recent studies on the causes of Covid-19 contamination, the medical setting is one of the primary factors. **ENIM decontamination Tunnel** will allow a total disinfection of the medical environment and patients at the entrance/exit of hospitals.
 
 
 # Why?
 <hr />
-Healthcare workers need Medical gowns in addition to masks and gloves  to provide protection from splashes  sprays of infected bodily fluids from Covid-19 patients during a number of high-risk medical procedures and situations. Actually the body shields **to prevent contamination of their clothing.**
 
-## what sets our product apart?
-
-Our product is **reusable** and the fabric can resist to disinfection with bleach or other products (it is highly tested) , the body shield comes in different sizes to assure comfortable moves, also it’s easy to wear and to take
-
-
+Sanitary and decontamination Tunnels and Gates represent a **safe protection and entry** for everyone, in particular for those who work in close contact with groups and are therefore at higher risk. It can be installed at the entrance of public ofﬁces, pharmacies, supermarkets, airports, hospitals, ports, stations. It is suitable for all private companies who need to sanitise the workforce, goods, vehicles and materials. It helps to **prevent the spread of coronavirus (COVID-19)**
 
 # How?
 <hr />
 
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/BodyShield.JPG" class="center">
 
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/1.jpg" class="center">
+The process used is misting (disinfecting without wetting) will allow a total decontamination thanks to the channel length 1, 5 and the 3 rows of disinfectant nozzles. The solution used is provided by the safety and hygiene unit of the **Tunisian Ministry of Health, Sousse district, which are partners of ATM/ENIM on this project.**
+The Tunnel will be equipped with **a thermal camera and will automatically take people's body temperature**. An **audible signal** will be emitted if the person's temperature exceeds the set value.
 
-The aim of this benevolic act is to develop a set of body shields for the medical stuff which  are **safe, low cost, easy to reproduce**  quickly using **materials, equipment, and labour available in the local market,** are **easy to disinfect and reuse**, and are comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. **ENIM professors and students**, has successfully came with a design(shown above)  that meets these goals.
-
-<div class="column">
-  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser1.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser2.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser3.jpg" style="width:225px;height:300px;" />
-</div>
-
-Medical gown that we made under these circumstances  is made of a specific type of plastic that was tested in order to assure an important level of protection to the medical staff , it’s easy to wear and to take off it is also easy to disinfect and rewear . This type of  medical wear is comfortable to practice the work in long periods.
-
-* **Medical Gown**
-
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/surBlouse.JPG" class="center">
+<img src="/Disinfection-Tunnel/assets/Media/5.jpg" class="center">
 
 
 
+# Where to use?
 
-<h2 id="gallery">Gallery</h2>
+* Food markets
 
-<hr />
+* Offices
 
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/Sousse.jpg" class="center" >
-<hr />
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/Kesrine.jpg" class="center">
-<hr />
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/farhatHached.png" class="center">
-<hr />
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/4.jpg" class="center">
-<hr />
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/10.jpg" class="center">
-<hr />
+* Shopping malls
 
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/15.jpg" class="center">
+* Airports
 
+* Bus stops
+
+* Railway stations
+
+* Police stations
 
 # Features
 <hr />
 
-* Fabric : **100% waterproof canvas fabric** (tissu toile imperméable )  that provides **extra protection**
+* Fast assembly
 
-* Easy **decontamination for reuse**
+* Space saving as they are **retractable**
 
-* Different sizes for both genders allowing **a comfortable wearing for extended periods**.
-
-* **Fast, flexible and scaleable mass-manufacturing approaches** to help meet global demand despite supply chain disruptions
-
-
+* Suitable for **permanent or temporary installation**
 
 # Documentation and Files
 <hr />
 
-All of our design documentation and download files are available at ENIM Textile department, Tunisia. Pull requests are encouraged!
+All of our design documentation and download files are available at ENIM. Pull requests are encouraged!
+
+<img src="/Disinfection-Tunnel/assets/Media/1.JPG" class="center">
+
+<img src="/Disinfection-Tunnel/assets/Media/2.JPG" class="center">
+
+<img src="/Disinfection-Tunnel/assets/Media/3.JPG" class="center">
+
+<img src="/Disinfection-Tunnel/assets/Media/4.JPG" class="center">
+
 
 Issues / Feature Requests: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an Issue to one of our GitHub repositories! Thank you!
 
