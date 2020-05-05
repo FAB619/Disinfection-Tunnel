@@ -23,9 +23,6 @@ Sanitary and decontamination Tunnels and Gates represent a **safe protection and
 # How?
 <hr />
 
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/BodyShield.JPG" class="center">
-
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/1.jpg" class="center">
 
 The process used is misting (disinfecting without wetting) will allow a total decontamination thanks to the channel length 1, 5 and the 3 rows of disinfectant nozzles. The solution used is provided by the safety and hygiene unit of the **Tunisian Ministry of Health, Sousse district, which are partners of ATM/ENIM on this project.**
 The Tunnel will be equipped with **a thermal camera and will automatically take people's body temperature**. An **audible signal** will be emitted if the person's temperature exceeds the set value.
@@ -64,13 +61,13 @@ The Tunnel will be equipped with **a thermal camera and will automatically take 
 
 All of our design documentation and download files are available at ENIM. Pull requests are encouraged!
 
-<img src="/Disinfection-Tunnel/assets/Media/1.jpg" class="center">
+<img src="/Disinfection-Tunnel/assets/Media/1.JPG" class="center">
 
-<img src="/Disinfection-Tunnel/assets/Media/2.jpg" class="center">
+<img src="/Disinfection-Tunnel/assets/Media/2.JPG" class="center">
 
-<img src="/Disinfection-Tunnel/assets/Media/3.jpg" class="center">
+<img src="/Disinfection-Tunnel/assets/Media/3.JPG" class="center">
 
-<img src="/Disinfection-Tunnel/assets/Media/4.jpg" class="center">
+<img src="/Disinfection-Tunnel/assets/Media/4.JPG" class="center">
 
 
 Issues / Feature Requests: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an Issue to one of our GitHub repositories! Thank you!
